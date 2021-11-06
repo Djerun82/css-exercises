@@ -1,0 +1,18 @@
+.pinkclass {
+    background-color: rgb(233, 161, 173);
+    font-family: Verdana, sans-serif;
+}
+
+.fsize {
+    font-size: 24px;
+}
+
+#greenID {
+    background-color: rgb(69, 192, 69);
+    font-weight: bold;
+}
+
+#blueID {
+    color: rgb(44, 44, 238);
+    font-size: 36px;
+}
